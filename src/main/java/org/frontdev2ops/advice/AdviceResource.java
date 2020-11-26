@@ -51,5 +51,6 @@ public class AdviceResource {
         return Response.ok(advice).build();
     }
 
+
 }
 // end::adocResource[]
